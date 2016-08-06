@@ -14,10 +14,7 @@ layout_spectrum: 0.8237826086115092
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/6864fdcf-0279-426e-a577-09559627778e.jpg
 name: Democratech Conference
-navigation:
-  - name: Democratech
-    url: www.democratech.ca
-    type: external
+navigation: []
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/099dcc9f-219a-48f6-996c-efb597b9ff19.jpg
 title: 'September 29-31st, 2017'
