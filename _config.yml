@@ -1,0 +1,14 @@
+layout_spectrum: 0.8237826086115092
+typography_spectrum: 0.9170978020410985
+color:
+  brandStrength: 0.24646279867738485
+  lightness: 0.9254119435790926
+  saturation: 0.025838722474873066
+  rhythmicContrast: 0.025927487993612885
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+name: Democratech
