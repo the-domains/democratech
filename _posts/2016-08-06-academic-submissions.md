@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-07T01:15:42.572Z'
+datePublished: '2016-08-07T18:22:48.986Z'
 sourcePath: _posts/2016-08-06-academic-submissions.md
 author: []
 via: {}
-dateModified: '2016-08-07T01:15:42.037Z'
+dateModified: '2016-08-07T18:22:47.609Z'
 title: Academic Submissions
 publisher: {}
 description: >-
@@ -16,7 +16,6 @@ inNav: false
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/950fa1db-f6f4-4dde-935e-95d2ed8c72a0.gif)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c264103a-c373-4280-8d6c-9bd2a90ca71f.gif)
 
 # Academic Submissions
