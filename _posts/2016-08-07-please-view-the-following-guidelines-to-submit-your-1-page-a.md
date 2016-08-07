@@ -1,16 +1,16 @@
 ---
-datePublished: '2016-08-07T18:45:25.247Z'
+datePublished: '2016-08-07T18:45:59.470Z'
+sourcePath: >-
+  _posts/2016-08-07-please-view-the-following-guidelines-to-submit-your-1-page-a.md
 author: []
 via: {}
-dateModified: '2016-08-07T18:43:55.292Z'
+dateModified: '2016-08-07T18:45:58.880Z'
 title: ''
 publisher: {}
 description: >-
   Please view the following guidelines to submit your 1-page abstract with
   footnotes on the following topics:
 starred: false
-sourcePath: >-
-  _posts/2016-08-07-please-view-the-following-guidelines-to-submit-your-1-page-a.md
 inFeed: true
 hasPage: true
 inNav: false
@@ -19,7 +19,7 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8c4ab43-6ddd-4d24-a905-04b488ae1ea4.gif)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a964b8e3-e7ae-42b3-b181-1aac0116fbed.gif)
 
 Please view the following guidelines to submit your 1-page abstract with footnotes on the following topics:
 
