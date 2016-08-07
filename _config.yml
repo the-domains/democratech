@@ -1,16 +1,16 @@
-typography_spectrum: 0.9170978020410985
+typography_spectrum: 0.527019755449146
 color:
-  brandStrength: 0.24646279867738485
-  lightness: 0.9254119435790926
-  saturation: 0.025838722474873066
-  rhythmicContrast: 0.025927487993612885
+  brandStrength: 0.061324145179241896
+  lightness: 0.5609576602000743
+  saturation: 0.8300334208179265
+  rhythmicContrast: 0.6375611904077232
   brandColors:
-    - '#E6E2AF'
-    - '#A7A37E'
-    - '#EFECCA'
-    - '#046380'
-    - '#002F2F'
-layout_spectrum: 0.8237826086115092
+    - '#6C6E58'
+    - '#3E423A'
+    - '#417378'
+    - '#A4CFBE'
+    - '#F4F7D9'
+layout_spectrum: 0.3854844490997493
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/6864fdcf-0279-426e-a577-09559627778e.jpg
 name: Democratech Conference
