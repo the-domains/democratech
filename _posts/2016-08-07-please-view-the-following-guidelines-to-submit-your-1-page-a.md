@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-07T18:45:59.470Z'
+datePublished: '2016-08-07T23:23:43.964Z'
 sourcePath: >-
   _posts/2016-08-07-please-view-the-following-guidelines-to-submit-your-1-page-a.md
 author: []
 via: {}
-dateModified: '2016-08-07T18:45:58.880Z'
-title: ''
+dateModified: '2016-08-07T23:23:43.477Z'
+title: 'How to contribute as an academic:'
 publisher: {}
 description: >-
   Please view the following guidelines to submit your 1-page abstract with
@@ -20,6 +20,8 @@ _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a964b8e3-e7ae-42b3-b181-1aac0116fbed.gif)
+
+### How to contribute as an academic:
 
 Please view the following guidelines to submit your 1-page abstract with footnotes on the following topics:
 
