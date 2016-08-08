@@ -1,19 +1,17 @@
 ---
-datePublished: '2016-08-07T23:23:43.964Z'
+datePublished: '2016-08-08T00:47:24.326Z'
 sourcePath: >-
   _posts/2016-08-07-please-view-the-following-guidelines-to-submit-your-1-page-a.md
 author: []
 via: {}
-dateModified: '2016-08-07T23:23:43.477Z'
+dateModified: '2016-08-08T00:47:23.687Z'
 title: 'How to contribute as an academic:'
 publisher: {}
 description: >-
   Please view the following guidelines to submit your 1-page abstract with
   footnotes on the following topics:
-starred: false
-inFeed: true
 hasPage: true
-inNav: false
+starred: false
 url: please-view-the-following-guidelines-to-submit-your-1-page-a/index.html
 _context: 'http://schema.org'
 _type: Article
