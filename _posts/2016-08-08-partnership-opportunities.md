@@ -1,20 +1,20 @@
 ---
-description: PARTNERSHIP OPPORTUNITIES
-dateModified: '2016-08-08T13:25:58.508Z'
-datePublished: '2016-08-08T13:26:10.827Z'
-title: ''
-author: []
-publisher: {}
-via: {}
-starred: false
+datePublished: '2016-08-08T13:34:47.101Z'
 sourcePath: _posts/2016-08-08-partnership-opportunities.md
+author: []
+via: {}
+dateModified: '2016-08-08T13:34:46.549Z'
+title: ''
+publisher: {}
+description: PARTNERSHIP OPPORTUNITIES
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cdd825f0-689e-4424-99c4-8a75ccc8a127.jpg)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5c54f1b5cac9cea74aa242d768090e70/croprotate.jpg?cropheight=401&cropwidth=960&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fcdd825f0-689e-4424-99c4-8a75ccc8a127.jpg&x=0&y=126)
 
 PARTNERSHIP OPPORTUNITIES
 
@@ -50,6 +50,6 @@ There are many ways in which partnership can be beneficial to you and organizati
 
 Do you have access to an event space or similar? You are eligible for sponsorship benefits by engaging in a Venue Partnership with Preferences by hosting or providing venue resources for the Conference?
 
-Would you like to partner with Preferences in a way not listed here? We would love to hear from you. Please fill out the form and we will get the conversation going on how best to collaborate together.
+Would you like to partner with Democratech in a way not listed here? We would love to hear from you. Please fill out the form and we will get the conversation going on how best to collaborate together.
 
 Please email marina@preferences.ca
