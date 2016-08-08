@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[September 29-31st, 2017]]></title>
-        <description><![CDATA[September 29-31st, 2017]]></description>
+        <title><![CDATA[Democratech Conference]]></title>
+        <description><![CDATA[Democratech Conference]]></description>
         <link>https://thegrid.ai/democratech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Aug 2016 00:27:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2016 00:47:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/democratech/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/democratech/preferences-incorporated-is-pioneering-the-2017-democratech/index.html</link>
             <guid isPermaLink="false">2df08a58-620a-401e-b9d7-8ec42106b66e</guid>
             <pubDate>Mon, 08 Aug 2016 00:27:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to contribute as an academic:]]></title>
-            <description><![CDATA[<article><h1>How to contribute as an academic:</h1><p>Please view the following guidelines to submit your 1-page abstract with footnotes on the following topics:</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a964b8e3-e7ae-42b3-b181-1aac0116fbed.gif"></article>]]></description>
-            <link>https://thegrid.ai/democratech/please-view-the-following-guidelines-to-submit-your-1-page-a/index.html</link>
-            <guid isPermaLink="false">5474cf80-cb44-436b-a4b7-5af99db153c1</guid>
-            <pubDate>Sun, 07 Aug 2016 23:23:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
