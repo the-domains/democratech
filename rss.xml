@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Democratech Conference]]></title>
         <description><![CDATA[Democratech Conference]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/democratech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Aug 2016 01:06:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 08 Aug 2016 01:18:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/democratech/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a4fd8746-9362-4418-9273-0b263487661d.png">]]></description>
-            <link>undefinedabout-the-democratech-conference/index.html</link>
+            <title><![CDATA[About the Conference]]></title>
+            <description><![CDATA[<article><h1>About the Conference</h1><p>Preferences Incorporated is pioneering the 2017 Democratech Conference as an innovative event bringing together leading stakeholders in the Democratic Technology field. We aim to engage the Provincial and Federal levels of government, as well as Municipalities, and community-based organizations to inform and explore the use of these technologies. Both private and public sectors currently use decision-making tools, also called “Democratech” and some of those technologies determine important decision-making outcomes. The Conference will bring together scholars, business professionals and public servants to support growth in Democratech for decision-makers, community organizations and engaged citizens.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a4fd8746-9362-4418-9273-0b263487661d.png"></article>]]></description>
+            <link>https://thegrid.ai/democratech/about-the-democratech-conference/index.html</link>
             <guid isPermaLink="false">2df08a58-620a-401e-b9d7-8ec42106b66e</guid>
-            <pubDate>Mon, 08 Aug 2016 01:06:35 GMT</pubDate>
+            <pubDate>Mon, 08 Aug 2016 01:18:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
