@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-06T22:54:10.580Z'
+datePublished: '2016-08-08T00:27:41.111Z'
 sourcePath: >-
   _posts/2016-08-06-preferences-incorporated-provides-organizations-and-individu.md
 author: []
 via: {}
-dateModified: '2016-08-06T22:54:10.045Z'
+dateModified: '2016-08-08T00:27:40.600Z'
 title: ''
 publisher: {}
 description: About the Democratech Conference
