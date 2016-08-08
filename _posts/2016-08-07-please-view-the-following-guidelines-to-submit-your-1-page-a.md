@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-08T15:53:03.668Z'
+datePublished: '2016-08-08T16:29:50.738Z'
 sourcePath: >-
   _posts/2016-08-07-please-view-the-following-guidelines-to-submit-your-1-page-a.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-08T15:53:02.963Z'
-title: 'How to contribute as an academic:'
+dateModified: '2016-08-08T16:29:50.395Z'
+title: How to Contribute as an Academic
 publisher: {}
 description: >-
   Please view the following areas of interest to submit your 1-2 page abstract
@@ -17,7 +17,7 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-# How to contribute as an academic:
+# How to Contribute as an Academic
 
 Please view the following areas of interest to submit your 1-2 page abstract with footnotes on the following topics:
 
