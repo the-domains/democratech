@@ -1,16 +1,16 @@
-typography_spectrum: 0.9262531015556306
+typography_spectrum: 0.9170978020410985
 color:
-  brandStrength: 0.236503089312464
-  lightness: 0.27719305781647563
-  saturation: 0.8217191013973206
-  rhythmicContrast: 0.6212993720546365
+  brandStrength: 0.24646279867738485
+  lightness: 0.9254119435790926
+  saturation: 0.025838722474873066
+  rhythmicContrast: 0.025927487993612885
   brandColors:
     - '#E6E2AF'
     - '#A7A37E'
     - '#EFECCA'
     - '#046380'
     - '#002F2F'
-layout_spectrum: 0.5346618066541851
+layout_spectrum: 0.8237826086115092
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/6864fdcf-0279-426e-a577-09559627778e.jpg
 name: 'September 29-31st, 2017'
