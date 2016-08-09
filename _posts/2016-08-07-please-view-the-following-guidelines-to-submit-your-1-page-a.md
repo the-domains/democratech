@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-08T16:29:50.738Z'
+datePublished: '2016-08-09T13:15:51.507Z'
 sourcePath: >-
   _posts/2016-08-07-please-view-the-following-guidelines-to-submit-your-1-page-a.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-08T16:29:50.395Z'
+dateModified: '2016-08-09T13:15:51.127Z'
 title: How to Contribute as an Academic
 publisher: {}
 description: >-
